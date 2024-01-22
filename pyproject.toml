@@ -21,7 +21,7 @@ source = ["scripts", "app"]
 show_missing = true
 
 [tool.poetry]
-name = "holxai-dev-poc1 "
+name = "holxai-dev-poc1"
 version = "0.1.0"
 description = "A brief description of your app"
 authors = ["Jaswanth <jassureddy5@gmailcom>"]
