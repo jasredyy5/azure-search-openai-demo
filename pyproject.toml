@@ -28,4 +28,14 @@ python_version = 3.10
 module = [
     "msal.*"
 ]
+
+[tool.poetry]
+name = "holxai-dev-poc1 "
+version = "0.1.0"
+description = "A brief description of your app"
+authors = ["Jaswanth <jassureddy5@gmailcom>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
 ignore_missing_imports = true
